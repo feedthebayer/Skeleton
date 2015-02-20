@@ -26,7 +26,7 @@
 */
 
 
-/* Grid
+/* GRID
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
   position: relative;
@@ -78,7 +78,7 @@
 
   .one-half.column                { width: 48%; }
 
-  /* Offsets */
+  /* OFFSETS */
   .offset-by-one.column,
   .offset-by-one.columns          { margin-left: 8.66666666667%; }
   .offset-by-two.column,
@@ -113,7 +113,7 @@
 }
 
 
-/* Base Styles
+/* BASE STYLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* NOTE
 html is set to 62.5% so that all the REM measurements throughout Skeleton
@@ -128,7 +128,7 @@ body {
   color: #222; }
 
 
-/* Typography
+/* TYPOGRAPHY
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -155,7 +155,7 @@ p {
   margin-top: 0; }
 
 
-/* Links
+/* LINKS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
   color: #1EAEDB; }
@@ -163,7 +163,7 @@ a:hover {
   color: #0FA0CE; }
 
 
-/* Buttons
+/* BUTTONS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button,
 button,
@@ -223,7 +223,7 @@ input[type="button"].button-primary:focus {
   border-color: #1EAEDB; }
 
 
-/* Forms
+/* FORMS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 input[type="email"],
 input[type="number"],
@@ -285,7 +285,7 @@ label > .label-body {
   font-weight: normal; }
 
 
-/* Lists
+/* LISTS
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
   list-style: circle inside; }
@@ -304,7 +304,7 @@ li {
   margin-bottom: 1rem; }
 
 
-/* Code
+/* CODE
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 code {
   padding: .2rem .5rem;
@@ -320,7 +320,7 @@ pre > code {
   white-space: pre; }
 
 
-/* Tables
+/* TABLES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 th,
 td {
@@ -335,7 +335,7 @@ td:last-child {
   padding-right: 0; }
 
 
-/* Spacing
+/* SPACING
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 button,
 .button {
@@ -357,7 +357,7 @@ form {
   margin-bottom: 2.5rem; }
 
 
-/* Utilities
+/* UTILITIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .u-full-width {
   width: 100%;
@@ -389,10 +389,10 @@ hr {
     padding: 0.2em 0; }
 
 
-/* Clearing
+/* CLEARING
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
-/* Self Clearing Goodness */
+/* Self CLEARING Goodness */
 .container:after,
 .row:after,
 .u-cf {
@@ -402,7 +402,7 @@ hr {
 
 
 
-/* Media Queries
+/* MEDIA QUERIES
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /*
 Note: The best way to structure the use of media queries is to create the queries
